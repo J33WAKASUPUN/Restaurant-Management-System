@@ -2,6 +2,8 @@
 
 This project is a web-based restaurant management system developed using HTML, JavaScript, CSS, PHP, and MySQL (phpMyAdmin) using XAMPP. The system helps manage reservations, orders, payments, and employee data efficiently.
 
+![Restaurant Management System](./screenshots/ss.png)
+
 ## Table of Contents
 
 - [Features](#features)
